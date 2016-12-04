@@ -1,0 +1,32 @@
+{
+  "name": "inherit-es6",
+  "version": "1.0.1",
+  "description": "Better structure for your es6 projects",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/maierfelix/inherit-es6.git"
+  },
+  "keywords": [
+    "inherit",
+    "inheritance",
+    "es6",
+    "module",
+    "modular",
+    "multi",
+    "external",
+    "import",
+    "export"
+  ],
+  "author": "Felix Maier <xilefmai@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/maierfelix/inherit-es6/issues"
+  },
+  "homepage": "https://github.com/maierfelix/inherit-es6#readme",
+  "main": "index.js",
+  "engines": {
+    "node": ">= 4.x"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
