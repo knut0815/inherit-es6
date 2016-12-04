@@ -1,7 +1,7 @@
 # Inherit-es6 <a href="https://www.npmjs.com/package/inherit-es6"><img src="https://img.shields.io/npm/v/inherit-es6.svg?style=flat-square" alt="NPM Version" /></a>
 
-Get rid of big clunky javascript files.<br/>
-Split a class's methods into seperate files for a cleaner structure.
+Get rid of big clunky classes.<br/>
+Outsource class methods into seperate files for the sake of cleanness.
 
 ## Install
 
@@ -11,13 +11,16 @@ $ npm install inherit-es6
 
 ## Getting started
 
-Structure:
+Alternatively you can use [this](https://github.com/maierfelix/inherit-es6/tree/master/example) prepared example project.
+
+#### Structure:
 ````
 root
   |-- index.js
   |-- functions.js
 ````
-Example:
+
+#### Code:
 ````js
 // index.js
 import inherit from "inherit-es6"
